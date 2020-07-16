@@ -1,5 +1,5 @@
 #####
-# Disclaimer: Users assume all risk related to their use of these routines and NOAA disclaims any and all warranties,
+# Disclaimer: Users assume all risk related to their use of these routines and the contributors disclaim any and all warranties,
 #      whether expressed or implied, including (without limitation) any implied warranties of merchantability or
 #      fitness for a particular purpose.
 # History:

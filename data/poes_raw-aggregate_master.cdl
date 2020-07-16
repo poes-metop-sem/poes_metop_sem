@@ -622,7 +622,7 @@ variables:
 
 // global attributes:
 		:title = "POES/MetOp: Particle Precipitation (These data have known contamination problems. Please consult provider for usage recommendations.)" ;
-		:naming_authority = "gov.noaa.ngdc" ;
+		:naming_authority = "" ;
 		:time_coverage_duration = "1day" ;
 		:time_coverage_resolution = "2sec" ;
 		:geospatial_lat_min = "-90" ;
@@ -635,14 +635,14 @@ variables:
 		:geospatial_vertical_max = "850" ;
 		:geospatial_vertical_units = "km" ;
 		:geospatial_vertical_positive = "up" ;
-		:point_of_contact = "Janet Green" ;
-		:institution = "NOAA National Geophysical Data Center" ;
-		:creator = "National Geophysical Data Center" ;
-		:creator_url = "http://www.ngdc.noaa.gov/stp/satellite/poes/index.html" ;
-		:creator_email = "Janet.Green@noaa.gov" ;
-		:publisher_name = "Dan Wilkinson" ;
-		:publisher_url = "http://www.ngdc.noaa.gov/stp/satellite/poes/index.html" ;
-		:publisher_email = "Dan.Wilkinson@noaa.gov" ;
+		:point_of_contact = "" ;
+		:institution = "" ;
+		:creator = "" ;
+		:creator_url = "" ;
+		:creator_email = "" ;
+		:publisher_name = "" ;
+		:publisher_url = "" ;
+		:publisher_email = "" ;
 		:release = "Public Release" ;
 		:description = "POES/MetOp SEM-2 Data" ;
 		:summary = "The POES/MetOp SEM-2 data provide information about the particle radiation surrounding Earth and its effects on the atmosphere" ;
